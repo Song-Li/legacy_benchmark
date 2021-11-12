@@ -1,0 +1,33 @@
+| Package name              | Version Number | True Positive |
+|---------------------------|----------------|---------------|
+| closurecompiler           | 1.6.0          |      TRUE     |
+| cocos-utils               | 1.0.0          |      TRUE     |
+| git-tag                   | 0.2.0          |      TRUE     |
+| logkitty                  | 0.7.0          |      TRUE     |
+| m-log                     | 0.0.1          |      TRUE     |
+| markdown-pdf              | 8.1.1          |      TRUE     |
+| modulify                  | 0.1.0          |      TRUE     |
+| mol-proto                 | 0.0.2          |      TRUE     |
+| mongo-edit                | 0.5.0          |      TRUE     |
+| mongo-parse               | 2.0.0          |      TRUE     |
+| nameless-cli              | 1.0.9          |      TRUE     |
+| nameless-cli              | 1.0.0          |      TRUE     |
+| node-os-utils             | 1.0.7          |      TRUE     |
+| node-serialize            | 0.0.4          |      TRUE     |
+| office-converter          | 1.0.2          |      TRUE     |
+| pi_video_recording        | 1.0.1          |      TRUE     |
+| pomelo-monitor            | 0.3.7          |      TRUE     |
+| protojs                   | 1.0.5          |      TRUE     |
+| serialize-to-js           | 0.5.0          |      TRUE     |
+| windows-cpu               | 0.1.0          |      TRUE     |
+| bassmaster                | 1.5.1          |     FALSE     |
+| exiftool-vendored.pl      | 12.21.0        |     FALSE     |
+| gitlab-workflow           | 2.2.1          |     FALSE     |
+| last-commit-log           | 1.0.0          |     FALSE     |
+| m2m-supervisor            | 0.1.0          |     FALSE     |
+| modjs                     | 0.3.0          |     FALSE     |
+| obsidian-dataview         | 0.4.20         |     FALSE     |
+| reduce-css-calc           | 1.2.4          |     FALSE     |
+| safer-eval                | 1.2.3          |     FALSE     |
+| serialize-javascript      | 3.0.0          |     FALSE     |
+| typed-function            | 0.10.5         |     FALSE     |
